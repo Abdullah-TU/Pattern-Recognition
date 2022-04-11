@@ -1,3 +1,3 @@
 # Pattern Recognition and Machine Learning
 
-Course: Pattern Recognition and Machine Learning(Maximum part of this repo).
+The maximum part of this repo covers the Course - Pattern Recognition and Machine Learning.
