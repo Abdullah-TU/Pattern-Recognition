@@ -1,3 +1,3 @@
-# 📖 Pattern Recognition and Machine Learning
+# 📖 Pattern Recognition and Machine Learning 🦾
 
 The maximum part of this repo covers "Pattern Recognition and Machine Learning" course.
